@@ -1,6 +1,6 @@
 {
   "name": "codeowners-commit",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Batch commit your files by codeowner and file count",
   "keywords": [],
   "repository": {
